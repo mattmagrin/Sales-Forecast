@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run rossmann_streamlit_app.py
