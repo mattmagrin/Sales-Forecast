@@ -24,6 +24,14 @@ six weeks.
 
 **2. Feature Engineering & Data Filtering -** Here I tried to create/remove some variables that might help on the understanding and usage of the data, as well as variables that might help M.L. algorithms learn patterns in the data to make predictions.
 
+
 **3. Exploratory Data Analysis (EDA) -** Extremely important step to increase my understanding of the business dynamics, formulating and validating hypotheses.
 
+
 **4. Data Preparation & Feature Selection: -** In order to obtain more accurate insights, i made some transformations as encodings for categorical data and scaling to numerical ones being careful to apply Minmax and Robust rescaling according to the presence or absence of outliers. In addition, I used the Boruta algorithm to help in the initial choice of the features used.
+
+
+**5. Machine Learning Modelling & Hyperparameter Fine Tunning :** In this step I used some linear algorithms as well as some tree-based ones, to verify if the phenomena could be modeled linearly or not. In addition, Bayesian optimization was used to find the best hyperparameters for the model with the best performance for the chosen metrics.
+
+
+**6. Converting Model Performance to Business Numbers & Deploy:** In the final step, I adapted the results to the business context and deployed them to the streamlit. Finally, from the API created, it was possible to launch a bot on telegram to return forecasts, enabling greater accessibility to the solution.
