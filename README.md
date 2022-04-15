@@ -46,5 +46,8 @@ six weeks.
 
 *   Experimenting with the code may give insights on doing things differently, but it must not take forever. Remember Done is better than perfect.
 
+-----
 
+## Special thanks
 
+Special thanks to Master Meigarom Diego Fernandes Lopes who created a phenomenal course, used as the basis for this project. Your content on youtube was what inspired me to take my first steps as a data scientist.
