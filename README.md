@@ -8,7 +8,7 @@ If you wish, you may interact with the final solutions data products I built, ju
 
 -----
 
-## Project Overview
+## Project Overview 🎯
 * **Understanding the root cause behind the solution:**  The company wants to expand the operation, but is not sure how much to invest in each store. The investment needs to be consistent with the projected revenue in each case.
 
 
@@ -17,7 +17,7 @@ six weeks.
 
 -----
 
-## How was this solution developed?
+## How was this solution developed? ✔
 
 **1. Data Description -** In this step, after obtaining the data, i did an initial analysis of the data to familiarize myself with the variables involved and to have a clearer view of how to address the problem.
 
@@ -38,12 +38,13 @@ six weeks.
 
 -----
 
-##Key lessons learned
+## Key lessons learned 🤓
 
-*   Experimenting with the code may give insights on doing things differently, but it must not take forever. Remember Done is better than perfect.
+*   Models must be chosen while keeping in mind the deployment costs. Sometimes the performance difference won't make up for the risk/costs associated with more development time.
 
 *   Exploratory data analysis provides not only important information about data and insights to the business team but also an understanding of how some features might help or not the chosen ML models.
 
-*   Models must be chosen while keeping in mind the deployment costs. Sometimes the performance difference won't make up for the risk/costs.
+*   Experimenting with the code may give insights on doing things differently, but it must not take forever. Remember Done is better than perfect.
+
 
 
