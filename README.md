@@ -35,3 +35,15 @@ six weeks.
 
 
 **6. Converting Model Performance to Business Numbers & Deploy:** In the final step, I adapted the results to the business context and deployed them to the streamlit. Finally, from the API created, it was possible to launch a bot on telegram to return forecasts, enabling greater accessibility to the solution.
+
+-----
+
+##Key lessons learned
+
+*   Experimenting with the code may give insights on doing things differently, but it must not take forever. Remember Done is better than perfect.
+
+*   Exploratory data analysis provides not only important information about data and insights to the business team but also an understanding of how some features might help or not the chosen ML models.
+
+*   Models must be chosen while keeping in mind the deployment costs. Sometimes the performance difference won't make up for the risk/costs.
+
+
