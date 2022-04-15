@@ -19,11 +19,11 @@ six weeks.
 
 ## How was this solution developed?
 
-1. Data Description - In this step, after obtaining the data, i did an initial analysis of the data to familiarize myself with the variables involved and to have a clearer view of how to address the problem.
+**1. Data Description -** In this step, after obtaining the data, i did an initial analysis of the data to familiarize myself with the variables involved and to have a clearer view of how to address the problem.
 
 
-2. Feature Engineering & Data Filtering - Here I tried to create/remove some variables that might help on the understanding and usage of the data, as well as variables that might help M.L. algorithms learn patterns in the data to make predictions.
+**2. Feature Engineering & Data Filtering -** Here I tried to create/remove some variables that might help on the understanding and usage of the data, as well as variables that might help M.L. algorithms learn patterns in the data to make predictions.
 
-3. Exploratory Data Analysis (EDA) - Extremely important step to increase my understanding of the business dynamics, formulating and validating hypotheses.
+**3. Exploratory Data Analysis (EDA) -** Extremely important step to increase my understanding of the business dynamics, formulating and validating hypotheses.
 
-4. dasdadas
+**4. Data Preparation & Feature Selection: -** In order to obtain more accurate insights, i made some transformations as encodings for categorical data and scaling to numerical ones being careful to apply Minmax and Robust rescaling according to the presence or absence of outliers. In addition, I used the Boruta algorithm to help in the initial choice of the features used.
