@@ -15,9 +15,12 @@ If you wish, you may interact with the final solutions data products I built, ju
 * **Solution developed:** To solve this business problem, I used an adaptation of the CRISP-DM methodology, from which I was able to increase understanding of the influence of factors such as promotion, holiday and competition on revenue. Furthermore, we obtain an assertive prediction in the sales for each storefor the upcoming
 six weeks.
 
+* **Top insights + model performance:** [Click here](notebooklink.com)
+ 
 -----
 
 ## How was this solution developed? ✔
+### Each step has a detailed notebook with explanations, just click on the links below
 
 **1. Data Description -** In this step, after obtaining the data, i did an initial analysis of the data to familiarize myself with the variables involved and to have a clearer view of how to address the problem.
 
