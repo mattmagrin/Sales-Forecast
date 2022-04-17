@@ -20,7 +20,7 @@ six weeks.
 -----
 
 ## How was this solution developed? ✔
-### Each step has a detailed notebook with explanations, just click on the links below
+### Each step has a detailed notebook with explanations, just click on the links below (I'm finishing commenting them)
 
 **1. Data Description -** In this step, after obtaining the data, i did an initial analysis of the data to familiarize myself with the variables involved and to have a clearer view of how to address the problem.
 
