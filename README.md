@@ -4,6 +4,8 @@ If you wish, you may interact with the final solutions data products I built, ju
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/rossman_stores_bot) --> Created to provide easy and remote access to forecasts.
 
+![GIF](https://s7.gifyu.com/images/gif_rossmann.gif)
+
 [<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>](https://rossmannforecast.herokuapp.com/) --> Allows deeper navigation through data.
 
 -----
