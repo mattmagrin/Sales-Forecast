@@ -4,8 +4,6 @@ If you wish, you may interact with the final solutions data products I built, ju
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/rossman_stores_bot) --> Created to provide easy and remote access to forecasts.
 
-![GIF](https://s7.gifyu.com/images/gif_rossmann.gif)
-
 [<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>](https://rossmannforecast.herokuapp.com/) --> Allows deeper navigation through data.
 
 -----
@@ -13,6 +11,7 @@ If you wish, you may interact with the final solutions data products I built, ju
 ## Project Overview 🎯
 * **Understanding the root cause behind the solution:**  The company wants to expand the operation, but is not sure how much to invest in each store. The investment needs to be consistent with the projected revenue in each case.
 
+![GIF](http://g.recordit.co/RqjjyMKjmh.gif)
 
 * **Solution developed:** To solve this business problem, I used an adaptation of the CRISP-DM methodology, from which I was able to increase understanding of the influence of factors such as promotion, holiday and competition on revenue. Furthermore, we obtain an assertive prediction in the sales for each storefor the upcoming
 six weeks.
@@ -38,6 +37,8 @@ six weeks.
 
 
 **[6. Business Results & Deploy - ](https://github.com/mattmagrin/Sales-Forecast/blob/main/notebooks/6_business_results___deployment.ipynb)** In the final step, I adapted the results to the business context and deployed them to the streamlit. Finally, from the API created, it was possible to launch a bot on telegram to return forecasts, enabling greater accessibility to the solution.
+
+![GIF](https://im2.ezgif.com/tmp/ezgif-2-c50ad90410.gif)
 
 -----
 
