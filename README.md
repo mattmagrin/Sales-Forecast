@@ -36,7 +36,7 @@ six weeks.
 **[5. Machine Learning Modelling & Hyperparameter Fine Tunning - ](https://github.com/mattmagrin/Sales-Forecast/blob/main/notebooks/5_modelling___fine_tunning)** In this step I used some linear algorithms as well as some tree-based ones, to verify if the phenomena could be modeled linearly or not. In addition, Bayesian optimization was used to find the best hyperparameters for the model with the best performance for the chosen metrics.
 
 
-**[6. Business Results & Deploy - ](https://github.com/mattmagrin/Sales-Forecast/blob/main/notebooks/6_business_results___deployment.ipynb)** In the final step, I adapted the results to the business context and deployed them to the streamlit. Finally, from the API created, it was possible to launch a bot on telegram to return forecasts, enabling greater accessibility to the solution.
+**[6. Business Results & Deploy - ](https://github.com/mattmagrin/Sales-Forecast/blob/main/notebooks/6_business_results___deployment.ipynb)** In the final step, I adapted the results to the business context and deployed them to the streamlit. We also created the rossman class, to synthesize the transformations, cleanings in the data received via API later. Finally, from the API created, it was possible to launch a bot on telegram to return forecasts, enabling greater accessibility to the solution.
 
 ![GIF](https://im2.ezgif.com/tmp/ezgif-2-c50ad90410.gif)
 
