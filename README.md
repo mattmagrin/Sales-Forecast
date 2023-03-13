@@ -1,10 +1,8 @@
 ## Sales Forecasting the upcoming six weeks
 
-If you wish, you may interact with the final solutions data products I built, just click on the thumbnails below :
+If you wish, you may interact with the final solutions data products I built, just click on the thumbnail below :
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/rossman_stores_bot) --> Created to provide easy and remote access to forecasts.
-
-[<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>](https://rossmannforecast.herokuapp.com/) --> Allows deeper navigation through data.
 
 -----
 
